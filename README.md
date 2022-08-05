@@ -77,22 +77,3 @@ OR run:
 * $ python3.6 run.py runserver
 
 
-# AUTHOR
-
-* Joseph Adediji 
-
-## Support and Contact
----
-
--Twitter: [@Josylad](https://twitter.com/josylad/)
-
--Blog: [Joseph on Medium](https://medium.com/@josylad/)
-
--Email Address: markupmediang [@] gmail.com
-
--github-username: Josylad
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2019. Joseph Adediji
